@@ -1,7 +1,7 @@
 # Airelines_Sales
 Language Used: Python, Sqlite3,Pandas,Seaborn,Matplotlib
 
-Tool Use: Jupyter Notebook
+Tool Used: Jupyter Notebook
 
 
 1-Data Cleaning:Check Missing Values present or not
